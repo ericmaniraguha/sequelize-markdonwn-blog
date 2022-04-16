@@ -8,4 +8,12 @@ npm i marked
 
 mpm i marked slugify
 
-https://www.youtube.com/watch?v=1NrHkjlWVhM
+npm run devSt
+
+npm i method-override
+
+# Step II working with sligify and marked
+
+npm run devStart -- run the projects
+
+npm i dompurify jsdom
